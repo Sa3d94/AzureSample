@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uN24P5bRPGFPq9fdEFZ+5wDsjDDOqRjO/+DQjBCpNHwEZ8sGKByud46uKeWf0pAMwqRyn81sVDRHmizwQktHMg==",
+  "dgSpecHash": "vCoRivy+FuUrMaO6q70mWVEhlwgD2moPHSl4Otnd49wnJHvDoCX0sJFgtOguWB9clLmTrE4r87vGmGx0aUQN7A==",
   "success": true,
   "projectFilePath": "/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/SampleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mahmoudsaad/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/mahmoudsaad/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/mahmoudsaad/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
