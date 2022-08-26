@@ -1,0 +1,14 @@
+/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.csproj.AssemblyReference.cache
+/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.AssemblyInfoInputs.cache
+/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.AssemblyInfo.cs
+/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.csproj.CoreCompileInputs.cache
+/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.RazorAssemblyInfo.cache
+/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.RazorAssemblyInfo.cs
+/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/obj/Debug/netcoreapp3.1/staticwebassets/SampleApp.StaticWebAssets.Manifest.cache
+/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/obj/Debug/netcoreapp3.1/staticwebassets/SampleApp.StaticWebAssets.xml
+/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/obj/Debug/netcoreapp3.1/scopedcss/bundle/SampleApp.styles.css
+/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.TagHelpers.input.cache
+/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.TagHelpers.output.cache
+/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.dll
+/Users/mahmoudsaad/Documents/LEarning/AZ-204/Projects/SampleApp/SampleApp/obj/Debug/netcoreapp3.1/SampleApp.pdb
